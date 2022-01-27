@@ -4,11 +4,7 @@
 
 | Group \#:       | G38  |
 |-----------------|---|
-| Student Names:  |   |
-|     Tony Vo            |   |
-|     Chace Nielson            |   |
-|     Chad Holst            |   |
-|     Olisehemeka Chukwuma            |   |
+| Student Names:  | Tony Vo, Chace Nielson, Chad Holst, Olisehemeka Chukwuma |
 
 **Table of Contents**
 
