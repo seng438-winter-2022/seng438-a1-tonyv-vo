@@ -8,21 +8,21 @@
 
 **Table of Contents**
 
-[1 Introduction	1](#_Toc439194677)
+[1 Introduction](#_Toc439194677)
 
-[2 High-level description of the exploratory testing plan	1](#_Toc439194678)
+[2 High-level description of the exploratory testing plan](#_Toc439194678)
 
-[3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
+[3 Comparison of exploratory and manual functional testing](#_Toc439194679)
 
-[4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
+[4 Notes and discussion of the peer reviews of defect reports](#_Toc439194680)
 
 [5 How the pair testing was managed and team work/effort was
-divided	1](#_Toc439194681)
+divided](#_Toc439194681)
 
 [6 Difficulties encountered, challenges overcome, and lessons
-learned	1](#_Toc439194682)
+learned](#_Toc439194682)
 
-[7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
+[7 Comments/feedback on the lab and lab document itself](#_Toc439194683)
 
 # Introduction
 In this assignment, we were given two versions of an ATM system. The first program, version 1.0, was a primitive, first-release version of the system. The second program, version 1.1, was an updated version, which strived to solve some of the bugs found in the first version of the program. 
